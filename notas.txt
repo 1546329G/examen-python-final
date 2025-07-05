@@ -30,3 +30,10 @@ Python 3.10.11
  -V:3.11 *        Python 3.11 (64-bit)
  -V:3.10          Python 3.10 (64-bit)
 (ml-env) PS C:\examen-python-final> 
+
+
+
+
+
+
+pip install torch torchvision opencv-python
